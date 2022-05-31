@@ -1,4 +1,4 @@
-# ASP.NET-Core-MVC-Login-and-Registration-using-Identity
+# MOC-Productization
 This project required the design of a master user account database interfaced by an API that will allow users to logon to the various applications they use with a single username and password.
 The project is built with ASP.NET Core MVC 
 The user register and login on the Application can be assessed directly on the web browser.
